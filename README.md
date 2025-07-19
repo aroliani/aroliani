@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhlamdqYjQ0Z2EzdWhuZ3FxYTJzeGM0YjlkZjE2MjBvYTcxcGZkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nsJZspaP5l7BNAJbKJ/giphy.gif" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arolianimunte07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arolianimunte@gmail.com) 
