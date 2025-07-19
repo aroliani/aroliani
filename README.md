@@ -47,16 +47,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aroliani&theme=algolia&no-frame=false&no-bg=false&margin-w=6" />
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=That's+all+folks!+%F0%9F%91%8B;Push%2C+Pray%2C+and+Merge.;99+little+bugs+in+the+code...;Oops.+Now+there's+100!;Eat%2C+Sleep%2C+Code%2C+Repeat.;If+it+works%2C+don’t+touch+it.;+Hello%2C+World+was+just+the+beginning." alt="Dev Quote">
 </p>
 
 ---
@@ -69,9 +62,7 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=aroliani&icon=0&color=0" />
-  </a>
+  <img src="https://profile-counter.glitch.me/aroliani/count.svg" />
 </p>
 
 <!-- Proudly crafted by Aroliani with 💜 using GPRM -->
