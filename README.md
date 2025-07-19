@@ -55,7 +55,9 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/I%20break%20things%20for%20fun-%F0%9F%92%A5-red?style=for-the-badge" />
+  <a href="https://open.spotify.com/playlist/7uFTV1RPTC96Gsk6oXhJLj?si=N2O8XVrTR8GwRIKaBz6rfA" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+  </a>
 </p>
 
 <!-- Proudly crafted by Aroliani with 💜 using GPRM -->
