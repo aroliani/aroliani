@@ -5,6 +5,13 @@
 
 ---
 
+## 👩‍💻 About Me
+I'm an Informatics student at President University, just trying to make sense of cybersecurity, websites, and maybe some mobile apps when my brain lets me.
+
+Sometimes I design stuff, sometimes I code it, and sometimes I stare at the screen wondering what broke (spoiler: it was me). Still learning, still curious, and mostly just trying not to crash my laptop.
+
+---
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arolianimunte07)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arolianimunte@gmail.com)
