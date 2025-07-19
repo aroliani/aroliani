@@ -55,8 +55,8 @@
 ---
 
 <p align="center">
-  <a href="https://open.spotify.com/user/arolianimunte">
-    <img src="https://img.shields.io/badge/Bug%20Fix%20Beats-%F0%9F%8E%A7-303030?style=for-the-badge" alt="Bug Fix Beats Badge"/>
+  <a href="https://open.spotify.com/playlist/7uFTV1RPTC96Gsk6oXhJLj?si=N2O8XVrTR8GwRIKaBz6rfA" target="_blank">
+    <img src="https://img.shields.io/badge/Bug%20Fix%20Beats-%F0%9F%8E%A7-1DB954?style=for-the-badge" alt="Bug Fix Beats Badge"/>
   </a>
 </p>
 
