@@ -55,7 +55,7 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/aroliani/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=aroliani&style=for-the-badge&color=blue" />
 </p>
 
 <!-- Proudly crafted by Aroliani with 💜 using GPRM -->
