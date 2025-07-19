@@ -49,7 +49,7 @@
 
 ## ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=That's+all+folks!+%F0%9F%91%8B;Push%2C+Pray%2C+and+Merge.;99+little+bugs+in+the+code...;Oops.+Now+there's+100!;Eat%2C+Sleep%2C+Code%2C+Repeat.;If+it+works%2C+don’t+touch+it.;+Hello%2C+World+was+just+the+beginning." alt="Dev Quote">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=It+works+on+my+machine...;I+have+no+idea+why+this+works...+but+it+does.;%E2%80%94+Probably+You%2C+5+mins+before+production." alt="Funny Dev Quote" />
 </p>
 
 ---
