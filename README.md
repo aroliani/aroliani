@@ -54,13 +54,6 @@
 
 ---
 
-## 🔝 Top Contributed Repos
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=aroliani&limit=5&theme=algolia&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/aroliani/count.svg" />
 </p>
