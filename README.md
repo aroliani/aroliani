@@ -7,6 +7,7 @@
 
 ## 👩‍💻 About Me
 Hmm... hellow 👀
+
 Just trying to make sense of cybersecurity, websites, and maybe some mobile apps when my brain lets me.
 
 Sometimes I design stuff, sometimes I code it, and sometimes I stare at the screen wondering what broke (spoiler: it was me). Still learning, still curious, and mostly just trying not to crash my laptop.
