@@ -55,7 +55,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aroliani&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/I%20break%20things%20for%20fun-%F0%9F%92%A5-red?style=for-the-badge" />
 </p>
 
 <!-- Proudly crafted by Aroliani with 💜 using GPRM -->
