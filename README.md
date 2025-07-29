@@ -1,4 +1,4 @@
-3<!-- 🎬 Coraline Intro GIF -->
+<!-- 🎬 Coraline Intro GIF -->
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDc0ZnJhN2tobHo0dmhzMjJ3a3l4Y2ljM2liNm8yZjc1cnl3a3ZpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ShdHUWuVSuAM2pfwoJ/giphy.gif" alt="Coraline dancing" width="700"/>
 </div>
