@@ -47,15 +47,6 @@ Sometimes I design stuff, sometimes I code it, and sometimes I stare at the scre
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aroliani&theme=algolia&hide_border=false&include_all_commits=true&show_icons=true" alt="Aroliani's GitHub Stats" /><br>
-  <img src="https://streak-stats.demolab.com/?user=aroliani&theme=tokyonight&hide_border=false" alt="Aroliani's GitHub Streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroliani&layout=compact&theme=algolia&hide_border=false" alt="Aroliani's Top Languages" />
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=It+works+on+my+machine...;I+have+no+idea+why+this+works...+but+it+does.;%E2%80%94+Probably+You%2C+5+mins+before+production." alt="Funny Dev Quote" />
